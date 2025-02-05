@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// trying to learn java using o3-mini
+
 public class calc {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
